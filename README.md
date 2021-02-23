@@ -1,0 +1,2 @@
+# pixijs-game-sample
+PixiJSのゲームのサンプル
